@@ -85,7 +85,9 @@ DART API           극단값 필터   StandardScaler  log(PBR)   5-fold CV
 ### OLS vs XGBoost 비교
 ![XGBoost 비교](xgboost_comparison.png)
 
-> 분석 결과는 **Tableau 대시보드**로 인터랙티브하게 추가 시각화 예정
+> 분석 결과는 **Tableau 대시보드**로 인터랙티브하게 시각화
+
+🔗 **[대시보드 바로보기](https://public.tableau.com/views/KOSPI_17780779665960/KOSPI?:language=ko-KR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
